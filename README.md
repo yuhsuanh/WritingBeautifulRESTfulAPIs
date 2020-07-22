@@ -3,6 +3,9 @@
 ### Instructor
 Ethan Ballinger
 
+### Learning this course
+[Udemy - Writing Beautiful RESTful APIs](https://www.udemy.com/share/102kGwAksdd1hWQHw=/)
+
 ### Description
 RESTful APIs are part of our everyday life and most may not even know it. Because most of the design and implementation of these APIs is left up to developers and architects, there are a wide array of opinions and ideas on how things should work. This can create a good deal of confusion.  
   
